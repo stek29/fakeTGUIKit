@@ -6,7 +6,7 @@ override only selected functions.
 
 ![Preview with Comic Sans MS](preview.png?raw=true)
 
-> чуть блять не умер  
+> чуть \*\*\* не умер  
 > сердец болит  
 > руки дрожат  
 > такого издевательства над системой и телеграмом я еще не видел  
